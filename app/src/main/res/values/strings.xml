@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">zad_1</string>
+    <string name="pick_time">Wybierz datę</string>
+    <string name="order_select_text">Select Your Meal</string>
+    <string name="delivery_time_text">Select Time Of Your Delivery</string>
+    <string name="payment_method">Select Payment Method</string>
+    <string name="payment_card">Card Master/Visa</string>
+    <string name="payment_cash_on_delivery">Cash On Delivery</string>
+    <string name="address_label">Delivery Place</string>
+    <string name="address_text">Address</string>
+    <string name="postal_code_text">Postal Code</string>
+    <string name="city_text">City</string>
+    <string name="contact_data">Contact</string>
+    <string name="phone_number_text">Phone Number</string>
+    <string name="email_address_text">Email Address</string>
+    <string name="regulations_check">Regulations</string>
+    <string name="order_accept_button">Send Order</string>
+    <string name="back_button">Back</string>
+</resources>
